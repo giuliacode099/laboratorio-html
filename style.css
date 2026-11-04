@@ -93,3 +93,8 @@ footer {
     font-size: 14px;
     color: #526174;
 }
+/*stile della tabella*/
+table, th, td { border:1px solid black;}
+caption {font-weight:bold; color: yellow;}
+th  {background-color: yellow;}
+td  {text-align: center;}
