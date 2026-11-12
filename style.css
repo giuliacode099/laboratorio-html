@@ -99,8 +99,9 @@ caption {font-weight:bold; color: blue}
 th  {background-color: lightpink;}
 td  {text-align: center;}
 
-footer p:nth-child(2) {
-    font-size: 20px;
+.cuore  {
     color: red;
+    font-size: 100px;
+    text-align: center;
 }
 
